@@ -1,0 +1,9 @@
+{
+  "name": "candy-grab-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Candy Grab Halloween arena relay server",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" }
+}
